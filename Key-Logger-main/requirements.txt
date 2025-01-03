@@ -15,3 +15,7 @@ numpy
 pyscreenshot
 sounddevice
 wave
+flask
+pytest
+flake8
+
